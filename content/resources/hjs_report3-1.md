@@ -5,6 +5,8 @@ description: This file contains the student final report on the project on the s
 file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/6504ff4fc9791900c5a5d2388d88c0f5_hjs_report3.pdf
 file_size: 693722
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: 'This resource conatins a presentation on the strategy plan for Hyd
 file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/685eb7cbf67805695b98a9c9f7acb826_hjs_presentation.pdf
 file_size: 2918733
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

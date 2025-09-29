@@ -3,6 +3,8 @@ content_type: page
 description: Readings section lists chapters in the course textbook that cover each
   session's lecture materials. In addition, a list of recommended books for the course
   is also provided.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -46,9 +48,9 @@ Urban Neighborhood Decline: Causes, Consequences, Challenges
 {{< tdopen >}}
 
 
-National Trust for Historic Preservation. _Revitalizing Urban Main Streets_. Washington, DC: {{% resource_link "8ca9dad9-af7b-44ae-8cc5-ab01a8f2a840" "National Trust Main Street Center" %}}.
+National Trust for Historic Preservation. _Revitalizing Urban Main Streets_. Washington, DC: [National Trust Main Street Center](http://www.preservationnation.org/main-street/).
 
-Seidman, Karl F. _Wanted: Solutions for America._ Final Research Report, Boston Main Streets Program. Washington, DC: {{% resource_link "bc3481af-abbc-48d2-9276-36dd4b800c9b" "Center for Urban Policy Research (PDF)" %}}, 2003, pp. 3-21.
+Seidman, Karl F. _Wanted: Solutions for America._ Final Research Report, Boston Main Streets Program. Washington, DC: [Center for Urban Policy Research (PDF)](http://cupr.rutgers.edu/), 2003, pp. 3-21.
 
 Zielenbach, Sean. _The Art of Revitalization_. New York, NY: Garland Publishing, 2000, chapter 5, pp. 133-174. ISBN: 0815335989.
 
@@ -80,7 +82,7 @@ Urban Design and Development: Ways of Seeing
 
 Jacobs, Allan. _"Clues"_ and _"Seeing Change"_ from _Looking at Cities_. Cambridge, MA: Harvard University Press, 1985, pp. 30-83 and 99-107. ISBN: 0674538919.
 
-{{% resource_link "e8d1fc8a-a9ce-464a-8a8c-18ee58e0ed9b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, Kevin. "A Walk Around the Block." {{% resource_link "e8d1fc8a-a9ce-464a-8a8c-18ee58e0ed9b" "_City Sense and City Design: Writings and Projects of Kevin Lynch_" %}}. Cambridge, MA: MIT Press, 1980, pp. 185-204. ISBN: 0262620952.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/city-sense-and-city-design) Lynch, Kevin. "A Walk Around the Block." [_City Sense and City Design: Writings and Projects of Kevin Lynch_](https://mitpress.mit.edu/books/city-sense-and-city-design). Cambridge, MA: MIT Press, 1980, pp. 185-204. ISBN: 0262620952.
 
 Ryan, Brent, and Larry Sass. "First Dudley Street Vision Walk." October 1999. Unpublished document.
 
@@ -216,15 +218,15 @@ Economic Planning Tools III: Asset and Capacity Assessment
 {{< tdopen >}}
 
 
-National Trust for Historic Preservation. _Revitalizing Urban Main Streets_. Hyde Park Market Analysis Report, pp. 1-45. Washington, DC: {{% resource_link "8ca9dad9-af7b-44ae-8cc5-ab01a8f2a840" "National Trust Main Street Center" %}}.
+National Trust for Historic Preservation. _Revitalizing Urban Main Streets_. Hyde Park Market Analysis Report, pp. 1-45. Washington, DC: [National Trust Main Street Center](http://www.preservationnation.org/main-street/).
 
 Karl F. Seidman Consulting Services and Mt. Auburn Associates. _Brattleboro Market Analysis Report_. pp. 1-29. Unpublished document.
 
-Glickman, and Servon. "More than Bricks and Sticks: What is Community Development Capacity." CUPR Working Paper No. 132. New Brunswick, NJ: Center for Urban Policy Research, Rutgers University, 1997. ({{% resource_link "96d3d674-0d5d-427b-bae8-dc60657f21fd" "PDF" %}})
+Glickman, and Servon. "More than Bricks and Sticks: What is Community Development Capacity." CUPR Working Paper No. 132. New Brunswick, NJ: Center for Urban Policy Research, Rutgers University, 1997. ([PDF](http://cupr.rutgers.edu/wp-content/uploads/2014/08/Report1.pdf))
 
-McKnight, John L., and John P. Kretzmann. _Mapping Community Capacity_. Institute for Policy Research, Northwestern University, 1996, pp. 1-21. ({{% resource_link "210f5af7-c033-47ac-87f6-bce969566e1b" "PDF" %}})
+McKnight, John L., and John P. Kretzmann. _Mapping Community Capacity_. Institute for Policy Research, Northwestern University, 1996, pp. 1-21. ([PDF](http://www.northwestern.edu/ipr/publications/papers/mcc.pdf))
 
-National Civic League. _The Community Visioning and Strategic Planning Handbook_. pp. 28-34. ({{% resource_link "f109c714-427a-4474-a677-19c234d8aa06" "PDF - 14MB" %}})
+National Civic League. _The Community Visioning and Strategic Planning Handbook_. pp. 28-34. ([PDF - 14MB](http://mrsc.org/getmedia/D9ADE917-2DF1-4EA2-9AA8-14D713F5CE98/VSPHandbook.aspx))
 
 
 {{< tdclose >}}
@@ -270,15 +272,15 @@ Physical Design Tools III: Image and Neighborhood Form
 {{< tdopen >}}
 
 
-{{% resource_link "fafea651-0e8b-482d-87c8-a82c6572909f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hayden, Dolores. Selections from "Urban Landscape History: The Sense of Place and the Politics of Space," and from "Place Memory and Urban Preservation." {{% resource_link "fafea651-0e8b-482d-87c8-a82c6572909f" "_The Power of Place_" %}}. Cambridge, MA: MIT Press, 1996, pp. 14-43 and 44-78. ISBN: 0262581523.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/power-place) Hayden, Dolores. Selections from "Urban Landscape History: The Sense of Place and the Politics of Space," and from "Place Memory and Urban Preservation." [_The Power of Place_](https://mitpress.mit.edu/books/power-place). Cambridge, MA: MIT Press, 1996, pp. 14-43 and 44-78. ISBN: 0262581523.
 
-{{% resource_link "a56fd5f0-8460-4aeb-8e6f-00f90be1952e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jacobs, Allan. "Requirements for Great Streets," and "Qualities that Contribute." Chapters 1 and 2 in _Great Streets_. Cambridge, MA: MIT Press, 1993, Part 2, pp. 270-308. ISBN: 9780262100489.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262100489) Jacobs, Allan. "Requirements for Great Streets," and "Qualities that Contribute." Chapters 1 and 2 in _Great Streets_. Cambridge, MA: MIT Press, 1993, Part 2, pp. 270-308. ISBN: 9780262100489.
 
-National Trust for Historic Preservation. _Revitalizing Downtown_. pp. 43-47, 51-58. Washington, DC: {{% resource_link "8ca9dad9-af7b-44ae-8cc5-ab01a8f2a840" "National Trust Main Street Center" %}}.
+National Trust for Historic Preservation. _Revitalizing Downtown_. pp. 43-47, 51-58. Washington, DC: [National Trust Main Street Center](http://www.preservationnation.org/main-street/).
 
-Community Partners Consultants, Inc. "The Arts District Today," and "The Arts District Vision." Chapters 2 and 3 in _{{% resource_link "a87950fc-4430-4150-9a23-198979d2bd8c" "Worcester Massachusetts Arts District Master Plan" %}}_. Worcester, MA: Arts District Task Force and the City of Worcester. June 2002, pp. 18-29 and 31-50. 
+Community Partners Consultants, Inc. "The Arts District Today," and "The Arts District Vision." Chapters 2 and 3 in _[Worcester Massachusetts Arts District Master Plan](https://www.academia.edu/4182782/Worcester_Arts_District_Master_Plan_Worcester_MA)_. Worcester, MA: Arts District Task Force and the City of Worcester. June 2002, pp. 18-29 and 31-50. 
 
-City of Boston Transportation Department, _Streetscape Guidelines for Boston's Major Roads_. 1999, pp. 1-26. ({{% resource_link "f8357592-8900-4bb6-8bca-d9de45abf0ff" "PDF - 2.0 MB" %}})
+City of Boston Transportation Department, _Streetscape Guidelines for Boston's Major Roads_. 1999, pp. 1-26. ([PDF - 2.0 MB](http://www.cityofboston.gov/transportation/accessboston/pdfs/streetscape_guidelines.pdf))
 
 City of Toronto Department of Planning and Development. _City of Toronto Streetscape Manual_. 1996, pp. 20-21, P-3, P-4, L-1, L-3, L-8, L-17.
 
@@ -412,13 +414,13 @@ Policies and Interventions I: Safety and Sanitation
 {{< tdopen >}}
 
 
-National Crime Prevention Council. _Crime Prevention through Environmental Design Guidebook_. pp. 3-28. ({{% resource_link "efc01762-efe4-4a65-822b-7d44ffdd076c" "PDF" %}})
+National Crime Prevention Council. _Crime Prevention through Environmental Design Guidebook_. pp. 3-28. ([PDF](https://rems.ed.gov/docs/Mobile_docs/CPTED-Guidebook.pdf))
 
 Eastside Neighborhood Development Company. _Payne Arcade Main Street Program_. St. Paul, MN: ESNDC Crime and Safety Committee, Application for MetLife Foundation Community-Police Partnership Award. Unpublished document.
 
 Houston, Lawrence O., Jr. _BIDS: Business Improvement Districts_. Washington, DC: Urban Land Institute and International Downtown Association, 1997, pp. 59-72. ISBN: 087420819X.
 
-Thacher, David. "The Community Security Initiative Lessons Learned." John F. Kennedy School of Government, Harvard University Working Paper 00-05-17, July 2000. pp. 1-30. ({{% resource_link "c964261b-14a4-4176-8912-afa8d6a9d707" "PDF" %}})
+Thacher, David. "The Community Security Initiative Lessons Learned." John F. Kennedy School of Government, Harvard University Working Paper 00-05-17, July 2000. pp. 1-30. ([PDF](http://www.hks.harvard.edu/criminaljustice-backup/publications/csi.pdf))
 
 
 {{< tdclose >}}
@@ -444,7 +446,7 @@ Policies and Interventions III: Design and Zoning Guidelines
 {{< tdopen >}}
 
 
-Community Partners Consultants, Inc. "The Economic Benefits." Chapter 4 in _Worcester, Massachusetts Arts District Master Plan_. Worcester, MA, Arts District Task Force and City of Worcester, July 2002, pp. 51-58. ({{% resource_link "8ab146b4-5923-4748-98f5-834d3a0718d3" "PDF - 8.5 MB" %}})
+Community Partners Consultants, Inc. "The Economic Benefits." Chapter 4 in _Worcester, Massachusetts Arts District Master Plan_. Worcester, MA, Arts District Task Force and City of Worcester, July 2002, pp. 51-58. ([PDF - 8.5 MB](http://www.worcestermass.org/uploads/U0/e2/U0e2aC4MjSDft_-Sx92Lrw/ArtsDistrictMasterPlan.pdf))
 
 Goody, Clancy and Associates. _Strategic Revitalization Plan for Central Avenue, Albany._ City of Albany, September 2000. pp. 59-67. Unpublished document.
 
@@ -458,7 +460,7 @@ Hinshaw, Mark. "Design Review." APA Planning Advisory Service Report No. 454, Fe
 
 Bernick, Michael. "New York: Commuter Town Revival." Chapter 10 in _Transit Villages in the 21st Century_. New York, NY: McGraw-Hill, 1997, pp. 271-286. ISBN: 0070054754.
 
-Proakis, George John. "{{% resource_link "678f96a1-f603-4330-9358-ba013af67d8f" "Strategies for Design: Shaping Private Development Adjacent to Transit Stations" %}}." MCP Thesis, MIT, 2002.[  
+Proakis, George John. "[Strategies for Design: Shaping Private Development Adjacent to Transit Stations](http://hdl.handle.net/1721.1/69441)." MCP Thesis, MIT, 2002.[  
 ](https://www.researchgate.net/publication/237120772_Strategies_for_design_shaping_private_development_adjacent_to_transit_stations
             )
 
@@ -492,9 +494,9 @@ Policies and Interventions III: Marketing and Promotion
 {{< tdopen >}}
 
 
-Seidman, Karl F. "Revitalizing Commerce for American Cities," and "Economic Restructuring." Chapter 5 and 6 in _A Practitioner's Guide to Implementing Urban Main Streets_. Vol. 1. pp. 23-38 and 56-70. ({{% resource_link "7e9f4a33-9710-4c61-b9ae-bc9760537584" "PDF - 1.8 MB" %}})
+Seidman, Karl F. "Revitalizing Commerce for American Cities," and "Economic Restructuring." Chapter 5 and 6 in _A Practitioner's Guide to Implementing Urban Main Streets_. Vol. 1. pp. 23-38 and 56-70. ([PDF - 1.8 MB](https://www.innovations.harvard.edu/sites/default/files/49663.pdf))
 
-Toups, Catherine, and James H. Carr. {{% resource_link "d35d1947-32be-4f21-aa26-a14517ddfb34" "\"Reimaging Distressed Communities: A Strategy to Reverse Decline and Attract Investors.\" (PDF)" %}} _Building Blocks_ 1, no. 1 (Spring 2000).
+Toups, Catherine, and James H. Carr. ["Reimaging Distressed Communities: A Strategy to Reverse Decline and Attract Investors." (PDF)](http://www.innovations.harvard.edu/sites/default/files/Reimaging-Distressed-Communities.pdf) _Building Blocks_ 1, no. 1 (Spring 2000).
 
 Hoffman, Lily M. "The Marketing of Diversity in the Inner City: Tourism and Regulation in Harlem." _International Journal of Urban and Regional Research_ 27, no. 2 (June 2003): 286-299.
 

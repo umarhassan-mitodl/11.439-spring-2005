@@ -12,8 +12,6 @@ description: Roslindale, MA originally part of Roxbury and then West Roxbury was
 file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/fd4b948ccd6e93acc6b95ca3acc5c100_rvms_history.pdf
 file_size: 45180
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

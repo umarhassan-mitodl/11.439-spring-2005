@@ -7,8 +7,6 @@ description: 'This resource discusses the following topics: Uses of Market Analy
 file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/6aff9b71f810af2a089f493fc42dc9fa_lect16.pdf
 file_size: 86006
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,8 +3,6 @@ content_type: page
 description: Readings section lists chapters in the course textbook that cover each
   session's lecture materials. In addition, a list of recommended books for the course
   is also provided.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

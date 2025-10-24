@@ -3,8 +3,6 @@ content_type: page
 description: 'This section contains final reports and final presentation files for
   the 2 projects taken up by the students during the course. The projects were: Hyde/Jackson
   Square Main Street, and Roslindale Village Main Street.'
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

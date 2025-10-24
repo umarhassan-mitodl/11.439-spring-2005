@@ -14,8 +14,6 @@ description: 'The given outline is a guide for thinking about organizing and pre
 file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/88a9b3d78047a7178a446fc94bed8824_pres_outline11.pdf
 file_size: 23054
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
